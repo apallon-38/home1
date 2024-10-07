@@ -1,4 +1,4 @@
 a = input("input a : ")
 a = int(a)
-p = a*(7)
+p = a*(8)
 print(p)
